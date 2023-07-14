@@ -4,7 +4,7 @@ Today I Learned.
 
 The biggest adventure you can ever take is to live the life of your dreams.
 
-## 1. 취업 목표
+## 1. Data Engineer
 
 ![img](https://github.com/datastacktv/data-engineer-roadmap/raw/master/img/roadmap.png)
 
